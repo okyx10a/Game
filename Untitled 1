@@ -1,0 +1,4 @@
+JTextbox - user input
+JButton - start application
+        - confirm - 1. action commend "CONFIRM" 2. action listener 
+JLabel - to prompt for input
